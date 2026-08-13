@@ -6,7 +6,7 @@ endpoints.
 ## Install
 
 ```
-/plugin marketplace add daniloantunez/roki-plugins
+/plugin marketplace add ROKImcp/roki-plugins
 /plugin install roki-connect@roki
 ```
 

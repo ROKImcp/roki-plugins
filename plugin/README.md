@@ -8,7 +8,7 @@ to copy, no URL to paste - and adds four commands for the work that actually tak
 ## Install
 
 ```
-/plugin marketplace add roki-la/roki-plugins
+/plugin marketplace add ROKImcp/roki-plugins
 /plugin install roki-connect@roki
 ```
 
