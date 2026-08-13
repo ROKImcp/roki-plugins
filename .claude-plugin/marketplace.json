@@ -1,0 +1,25 @@
+{
+  "name": "roki",
+  "owner": {
+    "name": "ROKI",
+    "url": "https://mcp.roki.la"
+  },
+  "metadata": {
+    "description": "Official ROKI plugins for AI coding agents.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "roki-connect",
+      "source": "./plugin",
+      "description": "Integrate ROKI Connect payments without inventing endpoints. Bundles the official ROKI MCP server plus commands to scaffold, audit and debug an integration.",
+      "version": "1.0.0",
+      "author": {
+        "name": "ROKI",
+        "url": "https://mcp.roki.la"
+      },
+      "homepage": "https://mcp.roki.la",
+      "keywords": ["payments", "roki", "honduras", "checkout", "webhooks", "mcp"]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "roki-connect": {
+      "type": "http",
+      "url": "https://mcp.roki.la/mcp"
+    }
+  }
+}

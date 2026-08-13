@@ -1,0 +1,18 @@
+{
+  "name": "roki-connect",
+  "version": "1.0.0",
+  "description": "Integrate ROKI Connect payments without inventing endpoints. Bundles the official ROKI MCP server plus commands to scaffold, audit and debug an integration.",
+  "author": {
+    "name": "ROKI",
+    "url": "https://mcp.roki.la"
+  },
+  "homepage": "https://mcp.roki.la",
+  "keywords": [
+    "payments",
+    "roki",
+    "honduras",
+    "checkout",
+    "webhooks",
+    "mcp"
+  ]
+}
